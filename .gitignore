@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Artefak besar
+data/embeddings/
+outputs/models/
+reports/
+*.pt
+
+# Arsip pekerjaan lama (tidak dilacak git)
+archive/
+
+# Tidak ikut pengumpulan
+docs/*
+outputs/logs/
+outputs/preds_3kelas/
+outputs/explore/tapt_*/
+outputs/explore/*.npy
+*_AoL1_*.pdf

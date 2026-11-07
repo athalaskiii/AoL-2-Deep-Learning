@@ -1,0 +1,35 @@
+[project]
+name = "aoldeeplearning2"
+version = "0.1.0"
+description = "Analisis sentimen berbasis aspek (ABSA) ulasan hotel berbahasa Indonesia (HoASA, IndoNLU)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "emoji>=2.16.0",
+    "gensim>=4.4.0",
+    "ipykernel>=7.4.0",
+    "iterative-stratification>=0.1.9",
+    "matplotlib>=3.11.2",
+    "numpy>=2.3",
+    "pandas>=3.0.6",
+    "pysastrawi>=1.2.1",
+    "scikit-learn>=1.9.1",
+    "sentencepiece>=0.2.2",
+    "stanza>=1.15.0",
+    "torch>=2.14.1",
+    "transformers>=5.20.1",
+    "wordcloud>=1.9.6",
+]
+
+[dependency-groups]
+dev = [
+    "nbconvert>=7.17.2",
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu130" }

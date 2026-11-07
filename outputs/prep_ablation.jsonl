@@ -1,0 +1,60 @@
+{"model": "IndoBERT-base", "tingkat": "raw", "fold": 0, "f1_indonlu": 0.8868874231260762, "f1_pair": 0.8682483594144371, "acc": 0.9585127201565558, "exact": 0.7084148727984344, "detik": 140}
+{"model": "BiLSTM + FastText", "tingkat": "raw", "fold": 0, "f1_indonlu": 0.8382547905649185, "f1_pair": 0.8164556962025317, "acc": 0.9426614481409002, "exact": 0.6086105675146771, "detik": 36}
+{"model": "IndoBERT-base", "tingkat": "raw", "fold": 1, "f1_indonlu": 0.8860940782512027, "f1_pair": 0.8752556237218814, "acc": 0.9632612966601178, "exact": 0.7170923379174853, "detik": 123}
+{"model": "BiLSTM + FastText", "tingkat": "raw", "fold": 1, "f1_indonlu": 0.82065978766454, "f1_pair": 0.8044280442804428, "acc": 0.9410609037328095, "exact": 0.6051080550098232, "detik": 31}
+{"model": "BiLSTM + FastText", "tingkat": "raw", "fold": 2, "f1_indonlu": 0.8178834614858527, "f1_pair": 0.7989556135770235, "acc": 0.9375984251968504, "exact": 0.5767716535433071, "detik": 34}
+{"model": "BiLSTM + FastText", "tingkat": "raw", "fold": 3, "f1_indonlu": 0.8303879036805223, "f1_pair": 0.8138704742478328, "acc": 0.9403921568627451, "exact": 0.5784313725490197, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "raw", "fold": 4, "f1_indonlu": 0.826578713695652, "f1_pair": 0.8131979695431472, "acc": 0.9396449704142011, "exact": 0.5936883629191322, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "clean", "fold": 0, "f1_indonlu": 0.8353837223436713, "f1_pair": 0.8133262823902697, "acc": 0.9410958904109589, "exact": 0.5949119373776908, "detik": 33}
+{"model": "IndoBERT-base", "tingkat": "raw", "fold": 2, "f1_indonlu": 0.8917747364812353, "f1_pair": 0.8759571209800919, "acc": 0.9614173228346456, "exact": 0.7047244094488189, "detik": 167}
+{"model": "BiLSTM + FastText", "tingkat": "clean", "fold": 1, "f1_indonlu": 0.8256338968667665, "f1_pair": 0.8075117370892019, "acc": 0.9420432220039293, "exact": 0.593320235756385, "detik": 31}
+{"model": "BiLSTM + FastText", "tingkat": "clean", "fold": 2, "f1_indonlu": 0.8237008317623965, "f1_pair": 0.8044397463002114, "acc": 0.9381889763779527, "exact": 0.5826771653543307, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "clean", "fold": 3, "f1_indonlu": 0.8289738610948207, "f1_pair": 0.8132315521628499, "acc": 0.94, "exact": 0.5764705882352941, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "clean", "fold": 4, "f1_indonlu": 0.8224939315798911, "f1_pair": 0.8119218910585817, "acc": 0.9414201183431953, "exact": 0.5956607495069034, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "norm", "fold": 0, "f1_indonlu": 0.828384271258078, "f1_pair": 0.8169159360495101, "acc": 0.9424657534246575, "exact": 0.6086105675146771, "detik": 33}
+{"model": "IndoBERT-base", "tingkat": "raw", "fold": 3, "f1_indonlu": 0.9067217849695622, "f1_pair": 0.894630192502533, "acc": 0.9666666666666667, "exact": 0.7333333333333333, "detik": 167}
+{"model": "BiLSTM + FastText", "tingkat": "norm", "fold": 1, "f1_indonlu": 0.8347720996322255, "f1_pair": 0.8198626518753301, "acc": 0.9453831041257368, "exact": 0.6149312377210217, "detik": 30}
+{"model": "BiLSTM + FastText", "tingkat": "norm", "fold": 2, "f1_indonlu": 0.8218244865381109, "f1_pair": 0.8002103049421662, "acc": 0.9377952755905512, "exact": 0.5649606299212598, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "norm", "fold": 3, "f1_indonlu": 0.8307110537606198, "f1_pair": 0.8196058615462355, "acc": 0.9423529411764706, "exact": 0.596078431372549, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "norm", "fold": 4, "f1_indonlu": 0.8378779889179212, "f1_pair": 0.8227526663280853, "acc": 0.9422090729783037, "exact": 0.5996055226824457, "detik": 32}
+{"model": "BiLSTM + FastText", "tingkat": "stem", "fold": 0, "f1_indonlu": 0.8181043510529268, "f1_pair": 0.8089658685685176, "acc": 0.9395303326810176, "exact": 0.6007827788649707, "detik": 32}
+{"model": "IndoBERT-base", "tingkat": "raw", "fold": 4, "f1_indonlu": 0.888235395298485, "f1_pair": 0.8774387193596799, "acc": 0.960552268244576, "exact": 0.6962524654832347, "detik": 168}
+{"model": "BiLSTM + FastText", "tingkat": "stem", "fold": 1, "f1_indonlu": 0.8309945239462543, "f1_pair": 0.8204592901878914, "acc": 0.9467583497053045, "exact": 0.6129666011787819, "detik": 30}
+{"model": "BiLSTM + FastText", "tingkat": "stem", "fold": 2, "f1_indonlu": 0.8291141562458396, "f1_pair": 0.8115048793014895, "acc": 0.9429133858267716, "exact": 0.6062992125984252, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "stem", "fold": 3, "f1_indonlu": 0.8305582529082528, "f1_pair": 0.8244274809160306, "acc": 0.9466666666666667, "exact": 0.6176470588235294, "detik": 32}
+{"model": "BiLSTM + FastText", "tingkat": "stem", "fold": 4, "f1_indonlu": 0.8309781438415159, "f1_pair": 0.8136645962732919, "acc": 0.9420118343195266, "exact": 0.5956607495069034, "detik": 32}
+{"model": "BiLSTM + FastText", "tingkat": "lemma", "fold": 0, "f1_indonlu": 0.8278409488982952, "f1_pair": 0.810838445807771, "acc": 0.9414872798434443, "exact": 0.5929549902152642, "detik": 32}
+{"model": "IndoBERT-base", "tingkat": "clean", "fold": 0, "f1_indonlu": 0.8893547229139597, "f1_pair": 0.8731682668014149, "acc": 0.9592954990215264, "exact": 0.6986301369863014, "detik": 168}
+{"model": "BiLSTM + FastText", "tingkat": "lemma", "fold": 1, "f1_indonlu": 0.8217865045266547, "f1_pair": 0.8189473684210526, "acc": 0.9467583497053045, "exact": 0.6168958742632613, "detik": 31}
+{"model": "BiLSTM + FastText", "tingkat": "lemma", "fold": 2, "f1_indonlu": 0.82138384508872, "f1_pair": 0.8018672199170125, "acc": 0.9397637795275591, "exact": 0.5826771653543307, "detik": 31}
+{"model": "BiLSTM + FastText", "tingkat": "lemma", "fold": 3, "f1_indonlu": 0.8335366344534334, "f1_pair": 0.8187850944359367, "acc": 0.9445098039215686, "exact": 0.6019607843137255, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "lemma", "fold": 4, "f1_indonlu": 0.8433894811543993, "f1_pair": 0.8327402135231317, "acc": 0.9461538461538461, "exact": 0.6015779092702169, "detik": 33}
+{"model": "BiLSTM + FastText", "tingkat": "stop", "fold": 0, "f1_indonlu": 0.8222748041502367, "f1_pair": 0.8057702215352911, "acc": 0.938160469667319, "exact": 0.5909980430528375, "detik": 25}
+{"model": "BiLSTM + FastText", "tingkat": "stop", "fold": 1, "f1_indonlu": 0.8170268699355856, "f1_pair": 0.8060165975103735, "acc": 0.9396856581532417, "exact": 0.5677799607072691, "detik": 25}
+{"model": "BiLSTM + FastText", "tingkat": "stop", "fold": 2, "f1_indonlu": 0.814522473473776, "f1_pair": 0.8077123501823866, "acc": 0.9403543307086614, "exact": 0.5866141732283464, "detik": 25}
+{"model": "IndoBERT-base", "tingkat": "clean", "fold": 1, "f1_indonlu": 0.8865588394120554, "f1_pair": 0.8761514841351075, "acc": 0.9636542239685658, "exact": 0.7229862475442044, "detik": 173}
+{"model": "BiLSTM + FastText", "tingkat": "stop", "fold": 3, "f1_indonlu": 0.8357648260955953, "f1_pair": 0.8239508700102354, "acc": 0.9441176470588235, "exact": 0.6, "detik": 22}
+{"model": "BiLSTM + FastText", "tingkat": "stop", "fold": 4, "f1_indonlu": 0.8287991726835262, "f1_pair": 0.8136456211812627, "acc": 0.9394477317554241, "exact": 0.5877712031558185, "detik": 24}
+{"model": "IndoBERT-base", "tingkat": "clean", "fold": 2, "f1_indonlu": 0.8912150895762719, "f1_pair": 0.8736572890025576, "acc": 0.9608267716535434, "exact": 0.702755905511811, "detik": 118}
+{"model": "IndoBERT-base", "tingkat": "clean", "fold": 3, "f1_indonlu": 0.9019828654416419, "f1_pair": 0.889564336372847, "acc": 0.966078431372549, "exact": 0.7313725490196078, "detik": 94}
+{"model": "IndoBERT-base", "tingkat": "clean", "fold": 4, "f1_indonlu": 0.8892126569247026, "f1_pair": 0.876, "acc": 0.9603550295857988, "exact": 0.6962524654832347, "detik": 93}
+{"model": "IndoBERT-base", "tingkat": "norm", "fold": 0, "f1_indonlu": 0.8940830707661686, "f1_pair": 0.8775818639798488, "acc": 0.961252446183953, "exact": 0.7142857142857143, "detik": 90}
+{"model": "IndoBERT-base", "tingkat": "norm", "fold": 1, "f1_indonlu": 0.8863160074682973, "f1_pair": 0.8719794344473007, "acc": 0.962475442043222, "exact": 0.7210216110019646, "detik": 90}
+{"model": "IndoBERT-base", "tingkat": "norm", "fold": 2, "f1_indonlu": 0.8978395645706625, "f1_pair": 0.8814249363867684, "acc": 0.9622047244094488, "exact": 0.7047244094488189, "detik": 90}
+{"model": "IndoBERT-base", "tingkat": "norm", "fold": 3, "f1_indonlu": 0.8984405787469244, "f1_pair": 0.8855116514690983, "acc": 0.9643137254901961, "exact": 0.7294117647058823, "detik": 96}
+{"model": "IndoBERT-base", "tingkat": "norm", "fold": 4, "f1_indonlu": 0.887267792284535, "f1_pair": 0.873805932629462, "acc": 0.9581854043392505, "exact": 0.6883629191321499, "detik": 96}
+{"model": "IndoBERT-base", "tingkat": "stem", "fold": 0, "f1_indonlu": 0.8845100704634987, "f1_pair": 0.872544080604534, "acc": 0.9592954990215264, "exact": 0.6986301369863014, "detik": 91}
+{"model": "IndoBERT-base", "tingkat": "stem", "fold": 1, "f1_indonlu": 0.8813874223175864, "f1_pair": 0.8696548171045853, "acc": 0.9612966601178782, "exact": 0.7111984282907662, "detik": 93}
+{"model": "IndoBERT-base", "tingkat": "stem", "fold": 2, "f1_indonlu": 0.8822134635750047, "f1_pair": 0.861838726245506, "acc": 0.9576771653543307, "exact": 0.687007874015748, "detik": 98}
+{"model": "IndoBERT-base", "tingkat": "stem", "fold": 3, "f1_indonlu": 0.8924008883614611, "f1_pair": 0.8810837932764677, "acc": 0.9625490196078431, "exact": 0.7137254901960784, "detik": 98}
+{"model": "IndoBERT-base", "tingkat": "stem", "fold": 4, "f1_indonlu": 0.8760647031114868, "f1_pair": 0.8637506284565108, "acc": 0.9552268244575937, "exact": 0.6627218934911243, "detik": 99}
+{"model": "IndoBERT-base", "tingkat": "lemma", "fold": 0, "f1_indonlu": 0.8899972277133732, "f1_pair": 0.8744326777609682, "acc": 0.959491193737769, "exact": 0.6927592954990215, "detik": 104}
+{"model": "IndoBERT-base", "tingkat": "lemma", "fold": 1, "f1_indonlu": 0.8804889270198952, "f1_pair": 0.8688946015424165, "acc": 0.9609037328094302, "exact": 0.7033398821218074, "detik": 105}
+{"model": "IndoBERT-base", "tingkat": "lemma", "fold": 2, "f1_indonlu": 0.8846905310211421, "f1_pair": 0.8659160696008188, "acc": 0.9580708661417323, "exact": 0.6771653543307087, "detik": 95}
+{"model": "IndoBERT-base", "tingkat": "lemma", "fold": 3, "f1_indonlu": 0.8931246550420999, "f1_pair": 0.8826196473551637, "acc": 0.9641176470588235, "exact": 0.7294117647058823, "detik": 93}
+{"model": "IndoBERT-base", "tingkat": "lemma", "fold": 4, "f1_indonlu": 0.8801738962890271, "f1_pair": 0.8645937813440321, "acc": 0.9554240631163708, "exact": 0.6706114398422091, "detik": 90}
+{"model": "IndoBERT-base", "tingkat": "stop", "fold": 0, "f1_indonlu": 0.8882528998320711, "f1_pair": 0.8727087576374746, "acc": 0.9587084148727985, "exact": 0.6966731898238747, "detik": 81}
+{"model": "IndoBERT-base", "tingkat": "stop", "fold": 1, "f1_indonlu": 0.8847730397672828, "f1_pair": 0.8726899383983573, "acc": 0.9612966601178782, "exact": 0.7092337917485265, "detik": 80}
+{"model": "IndoBERT-base", "tingkat": "stop", "fold": 2, "f1_indonlu": 0.8730208944966235, "f1_pair": 0.8594956253216676, "acc": 0.9562992125984252, "exact": 0.6751968503937008, "detik": 80}
+{"model": "IndoBERT-base", "tingkat": "stop", "fold": 3, "f1_indonlu": 0.8865036221553875, "f1_pair": 0.8789101917255298, "acc": 0.962156862745098, "exact": 0.7176470588235294, "detik": 80}
+{"model": "IndoBERT-base", "tingkat": "stop", "fold": 4, "f1_indonlu": 0.8786585065668181, "f1_pair": 0.8712273641851107, "acc": 0.9579881656804734, "exact": 0.6844181459566075, "detik": 80}

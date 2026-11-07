@@ -1,0 +1,59 @@
+{
+  "source": "IndoNLU hoasa_absa-airy (github.com/IndoNLP/indonlu)",
+  "aspects": [
+    "ac",
+    "air_panas",
+    "bau",
+    "general",
+    "kebersihan",
+    "linen",
+    "service",
+    "sunrise_meal",
+    "tv",
+    "wifi"
+  ],
+  "aspect_text": {
+    "ac": "ac",
+    "air_panas": "air panas",
+    "bau": "bau",
+    "general": "umum",
+    "kebersihan": "kebersihan",
+    "linen": "linen",
+    "service": "pelayanan",
+    "sunrise_meal": "sarapan",
+    "tv": "tv",
+    "wifi": "wifi"
+  },
+  "classes_train": [
+    "neg",
+    "neut",
+    "pos",
+    "neg_pos"
+  ],
+  "classes_eval": [
+    "neg",
+    "neut",
+    "pos"
+  ],
+  "neg_pos_handling": "latih 4 kelas (kolom <aspek>_orig); saat prediksi p(neg) += p(neg_pos)",
+  "text_columns": {
+    "clean": "text_clean",
+    "norm": "text_norm",
+    "stem": "text_stem",
+    "lemma": "text_lemma",
+    "stop": "text_stop"
+  },
+  "removed_train": {
+    "duplicates": 21,
+    "leaked_to_valid_test": 2
+  },
+  "max_length": {
+    "single": 128,
+    "pair": 128
+  },
+  "cv": {
+    "n_splits": 5,
+    "seed": 42,
+    "file": "cv_folds.csv"
+  }
+}
